@@ -4,8 +4,8 @@ Aplicativo Streamlit para gerar áudios combinados usando a API da ElevenLabs.
 import streamlit as st
 import json
 import os
-from audio_engine.elevenlabs_api import process_dialogue
-from audio_engine.audio_combiner import combine_audio_files
+from elevenlabs_api import process_dialogue
+from audio_combiner import combine_audio_files
 
 # Define os diretórios de saída
 OUTPUT_DIR_PARTS = "output/parts"
