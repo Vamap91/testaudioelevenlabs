@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "text": "Olá, este é o primeiro teste de fala.",
+      "voice_id": "Rachel",
+      "voice_name": "Narradora",
+      "labels": ["neutral"]
+    },
+    {
+      "text": "Espero que funcione corretamente.",
+      "voice_id": "Bella",
+      "voice_name": "Assistente",
+      "labels": ["positive"]
+    },
+    {
+      "text": "E que a combinação dos áudios seja perfeita!",
+      "voice_id": "Adam",
+      "voice_name": "Engenheiro",
+      "labels": ["excited"]
+    }
+  ]
+}
