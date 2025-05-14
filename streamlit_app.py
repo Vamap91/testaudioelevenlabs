@@ -123,6 +123,6 @@ if st.button("🎧 Gerar Áudio Combinado", key="generate_button"):
             st.error(f"Ocorreu um erro inesperado: {e}")
 
 st.markdown("---")
-st.markdown("Desenvolvido por Manus. Baseado nas especificações do projeto `testaudioelevenlabs`.")
+st.markdown("Desenvolvido por um Paulista maluco amigo de um Gaucho doido. Baseado nas especificações do projeto `testaudioelevenlabs`.")
 st.markdown("Lembre-se de que `ffmpeg` precisa estar disponível no ambiente para que a combinação de áudio com `pydub` funcione corretamente.")
 
